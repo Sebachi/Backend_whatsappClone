@@ -1,0 +1,329 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "1",
+      "password": "123456",
+      "name": "Sebastian Ruiz",
+      "messageId": 1,
+      "userImage": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us4-megaidea-300x300.png",
+      "flag": false
+    },
+    {
+      "id": 2,
+      "user_name": "2",
+      "password": "123456",
+      "name": "Jose Henao",
+      "messageId": 2,
+      "userImage": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us10-megaidea-300x300.png",
+      "flag": false
+    },
+    {
+      "id": 3,
+      "user_name": "3",
+      "password": "123456",
+      "name": "valeria Arboleda",
+      "messageId": 3,
+      "userImage": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us33-megaidea-300x300.png",
+      "flag": false
+    },
+    {
+      "id": 4,
+      "user_name": "4",
+      "password": "123456",
+      "name": "Rodrigo Ruperto",
+      "messageId": 4,
+      "userImage": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us5-megaidea-300x300.png",
+      "flag": false
+    },
+    {
+      "id": 5,
+      "user_name": "5",
+      "password": "123456",
+      "name": "Rodrigo Carmencio",
+      "messageId": 5,
+      "userImage": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us8-megaidea-300x300.png",
+      "flag": false
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "receptor": 2,
+      "emisor": 1,
+      "text": "Hola mundo1",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM"
+    },
+    {
+      "id": 2,
+      "receptor": 2,
+      "emisor": 2,
+      "text": "Hola mundo2",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM"
+    },
+    {
+      "id": 3,
+      "receptor": 2,
+      "emisor": 3,
+      "text": "Hola mundo3",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM"
+    },
+    {
+      "id": 4,
+      "receptor": 2,
+      "emisor": 4,
+      "text": "Hola mundo4",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM"
+    },
+    {
+      "id": 5,
+      "receptor": 2,
+      "emisor": 5,
+      "text": "Hola mundo5",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM"
+    },
+    {
+      "id": 6,
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Hola mundo12",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM"
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 7
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 8
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola2",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 9
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola123123",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 10
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola1",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 11
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Buenos dias",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 12
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Cordial saludo",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 13
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Buenas noches",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 14
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Manana",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 15
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Noche",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 16
+    },
+    {
+      "receptor": 2,
+      "emisor": 2,
+      "text": "Carajo",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 17
+    },
+    {
+      "receptor": 3,
+      "emisor": 2,
+      "text": "Jose ",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 18
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 19
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "buenos dias",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:15 PM",
+      "id": 20
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "holas",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:17 PM",
+      "id": 21
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "w",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:19 PM",
+      "id": 22
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "adsa",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 23
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "w",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:20 PM",
+      "id": 24
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "w",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:22 PM",
+      "id": 25
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:22 PM",
+      "id": 26
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:22 PM",
+      "id": 27
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Probando",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:28 PM",
+      "id": 28
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "hola",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "12:28 PM",
+      "id": 29
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quibusdam facere quia, dolore rerum fuga veritatis accusantium inventore? Molestiae reprehenderit quo velit adipisci voluptates libero, optio quidem explicabo iste ipsum.",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "1:45 PM",
+      "id": 30
+    },
+    {
+      "receptor": 1,
+      "emisor": 2,
+      "text": "Hola bebe",
+      "date": "6/27/2023",
+      "status": "unactive",
+      "hour": "5:35 PM",
+      "id": 31
+    }
+  ]
+}
